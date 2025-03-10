@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adithyanusum
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to make friends to learn together 
   
 
